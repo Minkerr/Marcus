@@ -1,0 +1,1459 @@
+540354738 Anastasia
+Target:120 Number:3 Turn:+1
+Target:120 Number:6 Turn:+3
+Target:120 Number:12 Turn:+3
+Target:120 Number:20 Turn:+5
+Target:120 Number:30 Turn:+15
+Target:120 Number:60 Turn:+15
+Target:120 Number:76 Turn:+1
+Target:120 Number:84 Turn:+1
+Target:120 Number:102 Turn:+17
+Победа
+
+540354738 Anastasia
+Target:99 Number:3 Turn:+1
+Target:99 Number:6 Turn:+3
+Target:99 Number:10 Turn:+5
+Target:99 Number:16 Turn:+1
+Target:99 Number:18 Turn:+9
+Target:99 Number:28 Turn:+7
+Target:99 Number:40 Turn:+5
+Target:99 Number:60 Turn:+3
+Target:99 Number:64 Turn:+1
+Target:99 Number:70 Turn:+1
+Target:99 Number:72 Turn:+1
+Target:99 Number:74 Turn:+1
+Target:99 Number:80 Turn:+1
+Target:99 Number:82 Turn:+1
+Target:99 Number:84 Turn:+14
+Победа
+
+540354738 Anastasia
+Target:86 Number:3 Turn:+1
+Target:86 Number:5 Turn:+1
+Target:86 Number:9 Turn:+3
+Target:86 Number:13 Turn:+1
+Target:86 Number:21 Turn:+7
+Target:86 Number:42 Turn:+7
+Target:86 Number:56 Turn:+1
+Target:86 Number:58 Turn:+1
+Target:86 Number:60 Turn:+1
+Target:86 Number:62 Turn:+1
+Target:86 Number:66 Turn:+1
+Target:86 Number:68 Turn:+17
+Победа
+
+540354738 Anastasia
+Target:69 Number:3 Turn:+1
+Target:69 Number:5 Turn:+1
+Target:69 Number:8 Turn:+1
+Target:69 Number:12 Turn:+3
+Target:69 Number:18 Turn:+9
+Target:69 Number:36 Turn:+3
+Target:69 Number:52 Turn:+13
+Target:69 Number:66 Turn:+2
+Победа
+
+540354738 Anastasia
+Target:116 Number:3 Turn:+1
+Target:116 Number:6 Turn:+3
+Target:116 Number:10 Turn:+5
+Target:116 Number:16 Turn:+1
+Target:116 Number:18 Turn:+9
+Target:116 Number:28 Turn:+7
+Target:116 Number:42 Turn:+21
+Target:116 Number:66 Turn:+3
+Target:116 Number:92 Turn:+23
+Победа
+
+540354738 Anastasia
+Target:86 Number:3 Turn:+1
+Target:86 Number:6 Turn:+3
+Target:86 Number:10 Turn:+5
+Target:86 Number:18 Turn:+9
+Target:86 Number:30 Turn:+15
+Target:86 Number:46 Turn:+1
+Target:86 Number:48 Turn:+3
+Target:86 Number:52 Turn:+1
+Target:86 Number:54 Turn:+1
+Target:86 Number:56 Turn:+1
+Target:86 Number:58 Turn:+1
+Target:86 Number:60 Turn:+1
+Target:86 Number:62 Turn:+1
+Target:86 Number:64 Turn:+1
+Target:86 Number:66 Turn:+1
+Target:86 Number:68 Turn:+17
+Победа
+
+540354738 Anastasia
+Target:93 Number:3 Turn:+1
+Target:93 Number:6 Turn:+3
+Target:93 Number:12 Turn:+3
+Target:93 Number:20 Turn:+5
+Target:93 Number:30 Turn:+15
+Target:93 Number:54 Turn:+3
+Target:93 Number:60 Turn:+1
+Target:93 Number:62 Turn:+1
+Target:93 Number:70 Turn:+1
+Target:93 Number:72 Turn:+1
+Target:93 Number:74 Turn:+1
+Target:93 Number:80 Turn:+1
+Target:93 Number:84 Turn:+3
+Target:93 Number:88 Turn:+4
+Победа
+
+540354738 Anastasia
+Target:112 Number:3 Turn:+1
+Target:112 Number:6 Turn:+3
+Target:112 Number:12 Turn:+3
+Target:112 Number:16 Turn:+1
+Target:112 Number:18 Turn:+9
+Target:112 Number:36 Turn:+9
+Target:112 Number:54 Turn:+9
+Target:112 Number:84 Turn:+1
+Target:112 Number:86 Turn:+1
+Target:112 Number:90 Turn:+1
+Target:112 Number:98 Turn:+1
+Target:112 Number:102 Turn:+1
+Target:112 Number:104 Turn:+1
+Target:112 Number:106 Turn:+1
+Target:112 Number:108 Turn:+3
+Победа
+
+540354738 Anastasia
+Target:115 Number:3 Turn:+1
+Target:115 Number:5 Turn:+1
+Target:115 Number:8 Turn:+1
+Target:115 Number:10 Turn:+5
+Target:115 Number:16 Turn:+1
+Target:115 Number:18 Turn:+9
+Target:115 Number:36 Turn:+9
+Target:115 Number:46 Turn:+23
+Target:115 Number:92 Turn:+1
+Target:115 Number:96 Turn:+1
+Target:115 Number:98 Turn:+1
+Target:115 Number:110 Turn:+1
+Target:115 Number:114 Turn:+1
+Поражение
+
+540354738 Anastasia
+Target:68 Number:3 Turn:+1
+Target:68 Number:6 Turn:+3
+Target:68 Number:12 Turn:+3
+Target:68 Number:18 Turn:+9
+Target:68 Number:36 Turn:+3
+Target:68 Number:52 Turn:+13
+Победа
+
+540354738 Anastasia
+Target:111 Number:3 Turn:+1
+Target:111 Number:6 Turn:+3
+Target:111 Number:12 Turn:+3
+Target:111 Number:20 Turn:+5
+Target:111 Number:30 Turn:+15
+Target:111 Number:60 Turn:+5
+Target:111 Number:78 Turn:+1
+Target:111 Number:80 Turn:+1
+Target:111 Number:90 Turn:+1
+Target:111 Number:104 Turn:+1
+Target:111 Number:110 Turn:+1
+Поражение
+
+540354738 Anastasia
+Target:105 Number:3 Turn:+1
+Target:105 Number:6 Turn:+3
+Target:105 Number:12 Turn:+3
+Target:105 Number:20 Turn:+5
+Target:105 Number:30 Turn:+15
+Target:105 Number:60 Turn:+5
+Target:105 Number:78 Turn:+26
+Победа
+
+540354738 Anastasia
+Target:97 Number:3 Turn:+1
+Target:97 Number:6 Turn:+3
+Target:97 Number:12 Turn:+3
+Target:97 Number:20 Turn:+5
+Target:97 Number:30 Turn:+15
+Target:97 Number:60 Turn:+1
+Target:97 Number:62 Turn:+1
+Target:97 Number:64 Turn:+32
+Победа
+
+540354738 Anastasia
+Target:121 Number:3 Turn:+1
+Target:121 Number:6 Turn:+3
+Target:121 Number:12 Turn:+3
+Target:121 Number:16 Turn:+1
+Target:121 Number:18 Turn:+9
+Target:121 Number:36 Turn:+9
+Target:121 Number:60 Turn:+15
+Target:121 Number:78 Turn:+1
+Target:121 Number:80 Turn:+40
+Победа
+
+540354738 Anastasia
+Target:99 Number:3 Turn:+1
+Target:99 Number:6 Turn:+3
+Target:99 Number:12 Turn:+3
+Target:99 Number:20 Turn:+5
+Target:99 Number:26 Turn:+13
+Target:99 Number:40 Turn:+5
+Target:99 Number:46 Turn:+1
+Target:99 Number:48 Turn:+3
+Target:99 Number:68 Turn:+1
+Target:99 Number:92 Turn:+1
+Target:99 Number:94 Turn:+1
+Target:99 Number:96 Turn:+2
+Победа
+
+540354738 Anastasia
+Target:120 Number:3 Turn:+1
+Target:120 Number:6 Turn:+3
+Target:120 Number:12 Turn:+3
+Target:120 Number:20 Turn:+5
+Target:120 Number:30 Turn:+15
+Target:120 Number:60 Turn:+15
+Target:120 Number:100 Turn:+1
+Target:120 Number:102 Turn:+17
+Победа
+
+540354738 Anastasia
+Target:113 Number:3 Turn:+1
+Target:113 Number:6 Turn:+3
+Target:113 Number:12 Turn:+3
+Target:113 Number:18 Turn:+9
+Target:113 Number:36 Turn:+9
+Target:113 Number:60 Turn:+5
+Target:113 Number:78 Turn:+1
+Target:113 Number:80 Turn:+1
+Target:113 Number:108 Turn:+4
+Победа
+
+628479361 Tatyana
+Target:120 Number:3 Turn:+1
+Target:120 Number:6 Turn:+3
+Target:120 Number:12 Turn:+3
+Target:120 Number:18 Turn:+9
+Target:120 Number:36 Turn:+9
+Target:120 Number:60 Turn:+15
+Target:120 Number:100 Turn:+1
+Target:120 Number:102 Turn:+17
+Победа
+
+628479361 Tatyana
+Target:110 Number:3 Turn:+1
+Target:110 Number:6 Turn:+3
+Target:110 Number:12 Turn:+3
+Target:110 Number:20 Turn:+5
+Target:110 Number:30 Turn:+15
+Target:110 Number:60 Turn:+5
+Target:110 Number:78 Turn:+1
+Target:110 Number:80 Turn:+1
+Target:110 Number:108 Turn:+1
+Победа
+
+628479361 Tatyana
+Target:69 Number:3 Turn:+1
+Target:69 Number:5 Turn:+1
+Target:69 Number:9 Turn:+3
+Target:69 Number:18 Turn:+9
+Target:69 Number:36 Turn:+3
+Target:69 Number:52 Turn:+13
+Победа
+
+628479361 Tatyana
+Target:77 Number:3 Turn:+1
+Target:77 Number:5 Turn:+1
+Target:77 Number:9 Turn:+3
+Target:77 Number:15 Turn:+5
+Target:77 Number:30 Turn:+15
+Target:77 Number:60 Turn:+1
+Target:77 Number:62 Turn:+1
+Target:77 Number:72 Turn:+4
+Победа
+
+628479361 Tatyana
+Target:89 Number:3 Turn:+1
+Target:89 Number:6 Turn:+3
+Target:89 Number:12 Turn:+3
+Target:89 Number:20 Turn:+5
+Target:89 Number:30 Turn:+15
+Target:89 Number:60 Turn:+1
+Target:89 Number:62 Turn:+1
+Target:89 Number:84 Turn:+4
+Победа
+
+628479361 Tatyana
+Target:77 Number:3 Turn:+1
+Target:77 Number:6 Turn:+3
+Target:77 Number:12 Turn:+3
+Target:77 Number:20 Turn:+5
+Target:77 Number:30 Turn:+15
+Target:77 Number:60 Turn:+1
+Target:77 Number:62 Turn:+1
+Target:77 Number:70 Turn:+1
+Target:77 Number:72 Turn:+4
+Победа
+
+628479361 Tatyana
+Target:97 Number:3 Turn:+1
+Target:97 Number:6 Turn:+3
+Target:97 Number:12 Turn:+3
+Target:97 Number:20 Turn:+5
+Target:97 Number:30 Turn:+15
+Target:97 Number:60 Turn:+1
+Target:97 Number:62 Turn:+1
+Target:97 Number:84 Turn:+12
+Победа
+
+628479361 Tatyana
+Target:96 Number:3 Turn:+1
+Target:96 Number:6 Turn:+3
+Target:96 Number:12 Turn:+3
+Target:96 Number:20 Turn:+5
+Target:96 Number:30 Turn:+15
+Target:96 Number:60 Turn:+1
+Target:96 Number:62 Turn:+31
+Победа
+
+628479361 Tatyana
+Target:120 Number:3 Turn:+1
+Target:120 Number:6 Turn:+3
+Target:120 Number:12 Turn:+3
+Target:120 Number:20 Turn:+5
+Target:120 Number:30 Turn:+15
+Target:120 Number:60 Turn:+15
+Target:120 Number:100 Turn:+1
+Target:120 Number:102 Turn:+17
+Победа
+
+628479361 Tatyana
+Target:111 Number:3 Turn:+1
+Target:111 Number:6 Turn:+3
+Target:111 Number:12 Turn:+3
+Target:111 Number:20 Turn:+5
+Target:111 Number:30 Turn:+15
+Target:111 Number:60 Turn:+5
+Target:111 Number:78 Turn:+1
+Target:111 Number:80 Turn:+1
+Target:111 Number:90 Turn:+1
+Target:111 Number:104 Turn:+1
+Target:111 Number:106 Turn:+1
+Target:111 Number:108 Turn:+2
+Победа
+
+628479361 Tatyana
+Target:115 Number:3 Turn:+1
+Target:115 Number:6 Turn:+3
+Target:115 Number:12 Turn:+3
+Target:115 Number:20 Turn:+5
+Target:115 Number:30 Turn:+15
+Target:115 Number:60 Turn:+5
+Target:115 Number:78 Turn:+1
+Target:115 Number:80 Turn:+1
+Target:115 Number:84 Turn:+1
+Target:115 Number:102 Turn:+1
+Target:115 Number:104 Turn:+1
+Target:115 Number:110 Turn:+1
+Target:115 Number:114 Turn:+1
+Поражение
+
+628479361 Tatyana
+Target:105 Number:3 Turn:+1
+Target:105 Number:6 Turn:+3
+Target:105 Number:12 Turn:+3
+Target:105 Number:20 Turn:+5
+Target:105 Number:30 Turn:+15
+Target:105 Number:60 Turn:+5
+Target:105 Number:78 Turn:+26
+Победа
+
+628479361 Tatyana
+Target:107 Number:3 Turn:+1
+Target:107 Number:6 Turn:+3
+Target:107 Number:12 Turn:+3
+Target:107 Number:20 Turn:+5
+Target:107 Number:30 Turn:+15
+Target:107 Number:60 Turn:+5
+Target:107 Number:78 Turn:+1
+Target:107 Number:80 Turn:+1
+Target:107 Number:90 Turn:+1
+Target:107 Number:98 Turn:+1
+Target:107 Number:102 Turn:+1
+Target:107 Number:104 Turn:+2
+Победа
+
+628479361 Tatyana
+Target:112 Number:3 Turn:+1
+Target:112 Number:6 Turn:+3
+Target:112 Number:12 Turn:+3
+Target:112 Number:20 Turn:+5
+Target:112 Number:30 Turn:+15
+Target:112 Number:60 Turn:+5
+Target:112 Number:78 Turn:+1
+Target:112 Number:80 Turn:+1
+Target:112 Number:90 Turn:+1
+Target:112 Number:98 Turn:+1
+Target:112 Number:108 Turn:+3
+Победа
+
+628479361 Tatyana
+Target:80 Number:3 Turn:+1
+Target:80 Number:6 Turn:+3
+Target:80 Number:12 Turn:+3
+Target:80 Number:20 Turn:+5
+Target:80 Number:30 Turn:+15
+Target:80 Number:60 Turn:+1
+Target:80 Number:62 Turn:+1
+Target:80 Number:70 Turn:+7
+Target:80 Number:78 Turn:+1
+Победа
+
+628479361 Tatyana
+Target:107 Number:3 Turn:+1
+Target:107 Number:6 Turn:+3
+Target:107 Number:12 Turn:+3
+Target:107 Number:20 Turn:+5
+Target:107 Number:30 Turn:+15
+Target:107 Number:60 Turn:+5
+Target:107 Number:78 Turn:+1
+Target:107 Number:80 Turn:+1
+Target:107 Number:90 Turn:+1
+Target:107 Number:98 Turn:+1
+Target:107 Number:100 Turn:+1
+Target:107 Number:102 Turn:+1
+Target:107 Number:104 Turn:+2
+Победа
+
+628479361 Tatyana
+Target:68 Number:3 Turn:+1
+Target:68 Number:5 Turn:+1
+Target:68 Number:9 Turn:+3
+Target:68 Number:18 Turn:+9
+Target:68 Number:36 Turn:+3
+Target:68 Number:52 Turn:+13
+Target:68 Number:66 Turn:+1
+Победа
+
+1078618715 Minker
+Target:87 Number:3 Turn:+1
+Target:87 Number:5 Turn:+1
+Target:87 Number:9 Turn:+3
+Target:87 Number:18 Turn:+9
+Target:87 Number:36 Turn:+9
+Target:87 Number:60 Turn:+1
+Target:87 Number:62 Turn:+1
+Target:87 Number:64 Turn:+1
+Target:87 Number:70 Turn:+1
+Target:87 Number:72 Turn:+1
+Target:87 Number:74 Turn:+1
+Победа
+
+1078618715 Minker
+Target:105 Number:3 Turn:+1
+Target:105 Number:6 Turn:+3
+Target:105 Number:12 Turn:+3
+Target:105 Number:20 Turn:+5
+Target:105 Number:30 Turn:+15
+1078618715 Minker
+Target:108 Number:3 Turn:+1
+Target:108 Number:6 Turn:+3
+Target:108 Number:12 Turn:+3
+Target:108 Number:20 Turn:+5
+Target:108 Number:30 Turn:+15
+Target:108 Number:46 Turn:+23
+Target:108 Number:72 Turn:+1
+Target:108 Number:74 Turn:+1
+Target:108 Number:80 Turn:+1
+Победа
+
+1078618715 Minker
+Target:86 Number:3 Turn:+1
+Target:86 Number:6 Turn:+3
+Target:86 Number:12 Turn:+3
+Target:86 Number:20 Turn:+5
+Target:86 Number:30 Turn:+15
+Target:86 Number:50 Turn:+5
+1078618715 Minker
+Target:109 Number:3 Turn:+1
+Target:109 Number:6 Turn:+3
+Target:109 Number:12 Turn:+3
+Target:109 Number:20 Turn:+5
+Target:109 Number:30 Turn:+15
+1078618715 Minker
+Target:68 Number:3 Turn:+1
+Target:68 Number:6 Turn:+3
+Target:68 Number:12 Turn:+3
+Target:68 Number:20 Turn:+5
+Target:68 Number:30 Turn:+5
+Target:68 Number:42 Turn:+1
+Target:68 Number:44 Turn:+1
+Target:68 Number:60 Turn:+5
+Победа
+
+1078618715 Minker
+Target:126 Number:3 Turn:+1
+Target:126 Number:6 Turn:+3
+Target:126 Number:12 Turn:+3
+Target:126 Number:20 Turn:+5
+Target:126 Number:30 Turn:+15
+Target:126 Number:60 Turn:+15
+Target:126 Number:90 Turn:+1
+Target:126 Number:98 Turn:+1
+Target:126 Number:110 Turn:+1
+Target:126 Number:112 Turn:+7
+Target:126 Number:120 Turn:+5
+Победа
+
+957894794 Арсений
+Target:101 Number:3 Turn:+1
+Target:101 Number:6 Turn:+3
+Target:101 Number:12 Turn:+3
+Target:101 Number:18 Turn:+9
+Target:101 Number:36 Turn:+9
+Target:101 Number:48 Turn:+3
+Target:101 Number:54 Turn:+9
+Target:101 Number:70 Turn:+1
+Target:101 Number:72 Turn:+1
+Target:101 Number:74 Turn:+2
+Target:101 Number:78 Turn:+1
+Target:101 Number:80 Turn:+20
+Победа
+
+957894794 Арсений
+Target:104 Number:3 Turn:+1
+Target:104 Number:5 Turn:+1
+Target:104 Number:9 Turn:+3
+Target:104 Number:18 Turn:+9
+Target:104 Number:30 Turn:+15
+Target:104 Number:60 Turn:+5
+Target:104 Number:78 Turn:+1
+Target:104 Number:80 Turn:+1
+Target:104 Number:82 Turn:+1
+Target:104 Number:84 Turn:+1
+Target:104 Number:90 Turn:+1
+Target:104 Number:98 Turn:+1
+Победа
+
+957894794 Арсений
+Target:75 Number:3 Turn:+1
+Target:75 Number:6 Turn:+3
+Target:75 Number:12 Turn:+3
+Target:75 Number:20 Turn:+5
+Target:75 Number:30 Turn:+15
+Target:75 Number:54 Turn:+1
+Target:75 Number:66 Turn:+1
+Target:75 Number:68 Turn:+1
+Target:75 Number:70 Turn:+1
+Target:75 Number:72 Turn:+2
+Победа
+
+957894794 Арсений
+Target:112 Number:3 Turn:+1
+Target:112 Number:5 Turn:+1
+Target:112 Number:7 Turn:+1
+Target:112 Number:9 Turn:+3
+Target:112 Number:14 Turn:+7
+Target:112 Number:24 Turn:+3
+Target:112 Number:30 Turn:+15
+Target:112 Number:48 Turn:+3
+Target:112 Number:54 Turn:+9
+Target:112 Number:66 Turn:+3
+Target:112 Number:92 Turn:+1
+Target:112 Number:94 Turn:+1
+Target:112 Number:100 Turn:+1
+Target:112 Number:102 Turn:+1
+Target:112 Number:104 Turn:+1
+Target:112 Number:106 Turn:+1
+Target:112 Number:108 Turn:+3
+Победа
+
+957894794 Арсений
+Target:125 Number:3 Turn:+1
+Target:125 Number:5 Turn:+1
+Target:125 Number:9 Turn:+3
+Target:125 Number:18 Turn:+9
+Target:125 Number:30 Turn:+15
+Target:125 Number:48 Turn:+3
+Target:125 Number:68 Turn:+1
+Target:125 Number:92 Turn:+2
+Target:125 Number:96 Turn:+1
+Target:125 Number:98 Turn:+1
+Target:125 Number:110 Turn:+11
+Победа
+
+957894794 Арсений
+Target:85 Number:3 Turn:+1
+Target:85 Number:6 Turn:+3
+Target:85 Number:12 Turn:+3
+Target:85 Number:20 Turn:+5
+Target:85 Number:26 Turn:+13
+Target:85 Number:52 Turn:+1
+Target:85 Number:54 Turn:+1
+Target:85 Number:56 Turn:+28
+Победа
+
+957894794 Арсений
+Target:103 Number:3 Turn:+1
+Target:103 Number:5 Turn:+1
+Target:103 Number:8 Turn:+1
+Target:103 Number:12 Turn:+3
+Target:103 Number:18 Turn:+9
+Target:103 Number:30 Turn:+15
+Target:103 Number:48 Turn:+3
+Target:103 Number:54 Turn:+9
+Target:103 Number:66 Turn:+1
+Target:103 Number:68 Turn:+34
+Победа
+
+957894794 Арсений
+Target:80 Number:3 Turn:+1
+Target:80 Number:6 Turn:+3
+Target:80 Number:12 Turn:+3
+Target:80 Number:18 Turn:+9
+Target:80 Number:36 Turn:+9
+Target:80 Number:54 Turn:+1
+Target:80 Number:56 Turn:+1
+Target:80 Number:58 Turn:+1
+Target:80 Number:60 Turn:+1
+Target:80 Number:62 Turn:+1
+Target:80 Number:66 Turn:+11
+Target:80 Number:78 Turn:+1
+Победа
+
+957894794 Арсений
+Target:69 Number:3 Turn:+1
+Target:69 Number:5 Turn:+1
+Target:69 Number:9 Turn:+3
+Target:69 Number:15 Turn:+5
+Target:69 Number:21 Turn:+7
+Target:69 Number:42 Turn:+21
+Победа
+
+957894794 Арсений
+Target:91 Number:3 Turn:+1
+Target:91 Number:6 Turn:+3
+Target:91 Number:10 Turn:+5
+Target:91 Number:16 Turn:+1
+Target:91 Number:18 Turn:+9
+Target:91 Number:28 Turn:+7
+Target:91 Number:42 Turn:+7
+Target:91 Number:56 Turn:+1
+Target:91 Number:76 Turn:+1
+Target:91 Number:78 Turn:+1
+Target:91 Number:80 Turn:+10
+Победа
+
+957894794 Арсений
+Target:122 Number:3 Turn:+1
+Target:122 Number:6 Turn:+3
+Target:122 Number:10 Turn:+5
+Target:122 Number:18 Turn:+9
+Target:122 Number:36 Turn:+9
+Target:122 Number:60 Turn:+15
+Target:122 Number:90 Turn:+1
+Target:122 Number:98 Turn:+1
+Target:122 Number:102 Turn:+17
+Победа
+
+957894794 Арсений
+Target:67 Number:3 Turn:+1
+Target:67 Number:6 Turn:+3
+Target:67 Number:12 Turn:+3
+Target:67 Number:18 Turn:+9
+Target:67 Number:28 Turn:+7
+Target:67 Number:40 Turn:+1
+Target:67 Number:42 Turn:+1
+Target:67 Number:44 Turn:+22
+Победа
+
+957894794 Арсений
+Target:96 Number:3 Turn:+1
+Target:96 Number:5 Turn:+1
+Target:96 Number:8 Turn:+1
+Target:96 Number:10 Turn:+5
+Target:96 Number:18 Turn:+9
+Target:96 Number:36 Turn:+9
+Target:96 Number:60 Turn:+1
+Target:96 Number:62 Turn:+31
+Победа
+
+957894794 Арсений
+Target:82 Number:3 Turn:+1
+Target:82 Number:5 Turn:+1
+Target:82 Number:8 Turn:+1
+Target:82 Number:10 Turn:+5
+Target:82 Number:16 Turn:+1
+Target:82 Number:18 Turn:+9
+Target:82 Number:28 Turn:+7
+Target:82 Number:42 Turn:+7
+Target:82 Number:50 Turn:+1
+Target:82 Number:54 Turn:+27
+Победа
+
+957894794 Арсений
+Target:89 Number:3 Turn:+1
+Target:89 Number:6 Turn:+3
+Target:89 Number:12 Turn:+3
+Target:89 Number:16 Turn:+1
+Target:89 Number:18 Turn:+9
+Target:89 Number:30 Turn:+15
+Target:89 Number:60 Turn:+1
+Target:89 Number:62 Turn:+1
+Target:89 Number:70 Turn:+1
+Target:89 Number:72 Turn:+1
+Target:89 Number:74 Turn:+1
+Target:89 Number:76 Turn:+1
+Target:89 Number:78 Turn:+1
+Target:89 Number:80 Turn:+8
+Победа
+
+957894794 Арсений
+Target:107 Number:3 Turn:+1
+Target:107 Number:5 Turn:+1
+Target:107 Number:7 Turn:+1
+Target:107 Number:9 Turn:+3
+Target:107 Number:15 Turn:+5
+Target:107 Number:22 Turn:+11
+Target:107 Number:34 Turn:+17
+Target:107 Number:68 Turn:+1
+Target:107 Number:92 Turn:+1
+Target:107 Number:94 Turn:+1
+Победа
+
+957894794 Арсений
+Target:119 Number:3 Turn:+1
+Target:119 Number:6 Turn:+3
+Target:119 Number:10 Turn:+5
+Target:119 Number:20 Turn:+5
+Target:119 Number:30 Turn:+15
+Target:119 Number:46 Turn:+23
+Target:119 Number:92 Turn:+23
+Target:119 Number:116 Turn:+2
+Победа
+
+957894794 Арсений
+Target:87 Number:3 Turn:+1
+Target:87 Number:6 Turn:+3
+Target:87 Number:10 Turn:+5
+Target:87 Number:16 Turn:+1
+Target:87 Number:18 Turn:+9
+Target:87 Number:30 Turn:+15
+Target:87 Number:54 Turn:+1
+Target:87 Number:66 Turn:+1
+Target:87 Number:68 Turn:+1
+Target:87 Number:72 Turn:+1
+Target:87 Number:74 Turn:+1
+Target:87 Number:76 Turn:+1
+Target:87 Number:78 Turn:+1
+Target:87 Number:80 Turn:+1
+Победа
+
+957894794 Арсений
+Target:77 Number:3 Turn:+1
+Target:77 Number:5 Turn:+1
+Target:77 Number:9 Turn:+3
+Target:77 Number:15 Turn:+5
+Target:77 Number:25 Turn:+5
+Target:77 Number:45 Turn:+3
+Target:77 Number:72 Turn:+4
+Победа
+
+1078618715 Minker
+Target:109 Number:3 Turn:+1
+Target:109 Number:6 Turn:+3
+Target:109 Number:12 Turn:+3
+Target:109 Number:18 Turn:+9
+Target:109 Number:30 Turn:+15
+Target:109 Number:60 Turn:+5
+Target:109 Number:78 Turn:+1
+Target:109 Number:80 Turn:+1
+Target:109 Number:108 Turn:+1
+Поражение
+
+957894794 Арсений
+Target:118 Number:3 Turn:+1
+Target:118 Number:5 Turn:+1
+Target:118 Number:8 Turn:+1
+Target:118 Number:12 Turn:+3
+Target:118 Number:20 Turn:+5
+Target:118 Number:26 Turn:+13
+Target:118 Number:52 Turn:+13
+Target:118 Number:70 Turn:+5
+Target:118 Number:100 Turn:+1
+Target:118 Number:102 Turn:+1
+Target:118 Number:104 Turn:+13
+Победа
+
+957894794 Арсений
+Target:88 Number:3 Turn:+1
+Target:88 Number:6 Turn:+3
+Target:88 Number:12 Turn:+3
+Target:88 Number:16 Turn:+1
+Target:88 Number:18 Turn:+9
+Target:88 Number:30 Turn:+15
+Target:88 Number:46 Turn:+1
+Target:88 Number:48 Turn:+3
+Target:88 Number:54 Turn:+1
+Target:88 Number:60 Turn:+1
+Target:88 Number:62 Turn:+1
+Target:88 Number:66 Turn:+1
+Target:88 Number:68 Turn:+17
+Target:88 Number:86 Turn:+1
+Победа
+
+957894794 Арсений
+Target:73 Number:3 Turn:+1
+Target:73 Number:5 Turn:+1
+Target:73 Number:7 Turn:+1
+Target:73 Number:9 Turn:+3
+Target:73 Number:13 Turn:+1
+Target:73 Number:16 Turn:+1
+Target:73 Number:18 Turn:+9
+Target:73 Number:30 Turn:+15
+Target:73 Number:48 Turn:+24
+Победа
+
+957894794 Арсений
+Target:126 Number:3 Turn:+1
+Target:126 Number:6 Turn:+3
+Target:126 Number:10 Turn:+5
+Target:126 Number:18 Turn:+9
+Target:126 Number:30 Turn:+15
+Target:126 Number:48 Turn:+3
+Target:126 Number:68 Turn:+1
+Target:126 Number:72 Turn:+9
+Target:126 Number:90 Turn:+1
+Target:126 Number:98 Turn:+1
+Target:126 Number:102 Turn:+17
+Target:126 Number:120 Turn:+5
+Победа
+
+957894794 Арсений
+Target:127 Number:3 Turn:+1
+Target:127 Number:5 Turn:+1
+Target:127 Number:7 Turn:+1
+Target:127 Number:12 Turn:+3
+Target:127 Number:18 Turn:+9
+Target:127 Number:36 Turn:+9
+Target:127 Number:48 Turn:+3
+Target:127 Number:54 Turn:+27
+Target:127 Number:108 Turn:+18
+Победа
+
+957894794 Арсений
+Target:92 Number:3 Turn:+1
+Target:92 Number:6 Turn:+3
+Target:92 Number:12 Turn:+3
+Target:92 Number:18 Turn:+9
+Target:92 Number:30 Turn:+15
+Target:92 Number:46 Turn:+1
+Target:92 Number:48 Turn:+3
+Target:92 Number:68 Turn:+1
+Target:92 Number:72 Turn:+1
+Target:92 Number:74 Turn:+1
+Target:92 Number:90 Turn:+1
+Победа
+
+1078618715 Minker
+Target:90 Number:3 Turn:+1
+Target:90 Number:6 Turn:+3
+Target:90 Number:12 Turn:+3
+Target:90 Number:20 Turn:+5
+Target:90 Number:30 Turn:+15
+Target:90 Number:60 Turn:+1
+Target:90 Number:62 Turn:+1
+Target:90 Number:84 Turn:+3
+Target:90 Number:88 Turn:+1
+Победа
+
+1068622525 Валерий
+Target:67 Number:3 Turn:+1
+Target:67 Number:5 Turn:+1
+Target:67 Number:7 Turn:+1
+Target:67 Number:9 Turn:+3
+Target:67 Number:13 Turn:+1
+Target:67 Number:15 Turn:+5
+Target:67 Number:21 Turn:+7
+Target:67 Number:42 Turn:+1
+Target:67 Number:44 Turn:+22
+Победа
+
+1068622525 Валерий
+Target:115 Number:3 Turn:+1
+Target:115 Number:6 Turn:+3
+Target:115 Number:12 Turn:+3
+Target:115 Number:20 Turn:+5
+Target:115 Number:30 Turn:+15
+Target:115 Number:54 Turn:+9
+Target:115 Number:66 Turn:+3
+Target:115 Number:92 Turn:+1
+Target:115 Number:96 Turn:+1
+Target:115 Number:98 Turn:+1
+Target:115 Number:108 Turn:+6
+Победа
+
+1068622525 Валерий
+Target:97 Number:3 Turn:+1
+Target:97 Number:6 Turn:+3
+Target:97 Number:12 Turn:+3
+Target:97 Number:20 Turn:+5
+Target:97 Number:30 Turn:+15
+Target:97 Number:60 Turn:+1
+Target:97 Number:62 Turn:+1
+Target:97 Number:84 Turn:+12
+Победа
+
+1068622525 Валерий
+Target:118 Number:3 Turn:+1
+Target:118 Number:6 Turn:+3
+Target:118 Number:12 Turn:+3
+Target:118 Number:20 Turn:+5
+Target:118 Number:26 Turn:+13
+Target:118 Number:52 Turn:+13
+Target:118 Number:78 Turn:+39
+Победа
+
+1068622525 Валерий
+Target:68 Number:3 Turn:+1
+Target:68 Number:6 Turn:+3
+Target:68 Number:12 Turn:+3
+Target:68 Number:20 Turn:+5
+Target:68 Number:30 Turn:+5
+Target:68 Number:42 Turn:+1
+Target:68 Number:44 Turn:+1
+Target:68 Number:54 Turn:+1
+Target:68 Number:60 Turn:+5
+Target:68 Number:66 Turn:+1
+Победа
+
+1078618715 Minker
+Target:115 Number:3 Turn:+1
+Target:115 Number:6 Turn:+3
+Target:115 Number:12 Turn:+3
+Target:115 Number:18 Turn:+9
+Target:115 Number:36 Turn:+9
+Target:115 Number:60 Turn:+5
+Target:115 Number:78 Turn:+1
+Target:115 Number:80 Turn:+1
+Target:115 Number:84 Turn:+1
+Target:115 Number:86 Turn:+1
+Target:115 Number:88 Turn:+22
+Target:115 Number:111 Turn:+3
+Победа
+
+1068622525 Валерий
+Target:121 Number:3 Turn:+1
+Target:121 Number:6 Turn:+3
+Target:121 Number:12 Turn:+3
+Target:121 Number:20 Turn:+5
+Target:121 Number:30 Turn:+15
+Target:121 Number:60 Turn:+15
+Target:121 Number:100 Turn:+20
+Победа
+
+1068622525 Валерий
+Target:110 Number:3 Turn:+1
+Target:110 Number:6 Turn:+3
+Target:110 Number:12 Turn:+3
+Target:110 Number:20 Turn:+5
+Target:110 Number:30 Turn:+15
+Target:110 Number:60 Turn:+5
+Target:110 Number:78 Turn:+1
+Target:110 Number:80 Turn:+1
+Target:110 Number:90 Turn:+1
+Target:110 Number:104 Turn:+1
+Target:110 Number:106 Turn:+1
+Target:110 Number:108 Turn:+1
+Победа
+
+1068622525 Валерий
+Target:103 Number:3 Turn:+1
+Target:103 Number:6 Turn:+3
+Target:103 Number:12 Turn:+3
+Target:103 Number:20 Turn:+5
+Target:103 Number:30 Turn:+15
+Target:103 Number:60 Turn:+5
+Target:103 Number:78 Turn:+1
+Target:103 Number:80 Turn:+1
+Target:103 Number:90 Turn:+5
+Target:103 Number:96 Turn:+6
+Победа
+
+1068622525 Валерий
+Target:102 Number:3 Turn:+1
+Target:102 Number:6 Turn:+3
+Target:102 Number:12 Turn:+3
+Target:102 Number:20 Turn:+5
+Target:102 Number:30 Turn:+15
+Target:102 Number:60 Turn:+5
+Target:102 Number:78 Turn:+1
+Target:102 Number:80 Turn:+1
+Target:102 Number:82 Turn:+1
+Target:102 Number:84 Turn:+1
+Target:102 Number:86 Turn:+1
+Target:102 Number:88 Turn:+11
+Победа
+
+1068622525 Валерий
+Target:123 Number:3 Turn:+1
+Target:123 Number:6 Turn:+3
+Target:123 Number:12 Turn:+3
+Target:123 Number:20 Turn:+5
+Target:123 Number:30 Turn:+15
+Target:123 Number:60 Turn:+15
+Target:123 Number:100 Turn:+1
+Target:123 Number:102 Turn:+17
+Target:123 Number:120 Turn:+2
+Победа
+
+1068622525 Валерий
+Target:90 Number:3 Turn:+1
+Target:90 Number:6 Turn:+3
+Target:90 Number:12 Turn:+3
+Target:90 Number:20 Turn:+5
+Target:90 Number:30 Turn:+15
+Target:90 Number:60 Turn:+1
+Target:90 Number:62 Turn:+1
+Target:90 Number:70 Turn:+1
+Target:90 Number:72 Turn:+1
+Target:90 Number:74 Turn:+1
+Target:90 Number:78 Turn:+1
+Target:90 Number:80 Turn:+1
+Target:90 Number:84 Turn:+3
+Target:90 Number:88 Turn:+1
+Победа
+
+1068622525 Валерий
+Target:78 Number:3 Turn:+1
+Target:78 Number:5 Turn:+1
+Target:78 Number:7 Turn:+1
+Target:78 Number:9 Turn:+3
+Target:78 Number:18 Turn:+9
+Target:78 Number:30 Turn:+15
+Target:78 Number:46 Turn:+1
+Target:78 Number:48 Turn:+1
+Target:78 Number:50 Turn:+25
+Target:78 Number:76 Turn:+1
+Победа
+
+1068622525 Валерий
+Target:77 Number:3 Turn:+1
+Target:77 Number:6 Turn:+3
+Target:77 Number:10 Turn:+5
+Target:77 Number:16 Turn:+1
+Target:77 Number:18 Turn:+9
+Target:77 Number:28 Turn:+7
+Target:77 Number:36 Turn:+9
+Target:77 Number:46 Turn:+1
+Target:77 Number:48 Turn:+1
+Target:77 Number:50 Turn:+1
+Target:77 Number:52 Turn:+1
+Target:77 Number:54 Turn:+1
+Target:77 Number:56 Turn:+2
+Target:77 Number:60 Turn:+1
+Target:77 Number:62 Turn:+1
+Target:77 Number:64 Turn:+1
+Target:77 Number:66 Turn:+1
+Target:77 Number:68 Turn:+1
+Target:77 Number:70 Turn:+1
+Target:77 Number:72 Turn:+4
+Победа
+
+1068622525 Валерий
+Target:108 Number:3 Turn:+1
+Target:108 Number:5 Turn:+1
+Target:108 Number:7 Turn:+1
+Target:108 Number:9 Turn:+3
+Target:108 Number:13 Turn:+1
+Target:108 Number:15 Turn:+5
+Target:108 Number:21 Turn:+7
+Target:108 Number:29 Turn:+1
+Target:108 Number:31 Turn:+1
+Target:108 Number:33 Turn:+11
+Target:108 Number:45 Turn:+15
+Target:108 Number:61 Turn:+1
+Target:108 Number:63 Turn:+7
+Target:108 Number:71 Turn:+1
+Target:108 Number:73 Turn:+1
+Target:108 Number:75 Turn:+1
+Target:108 Number:77 Turn:+1
+Target:108 Number:79 Turn:+1
+Target:108 Number:81 Turn:+1
+Target:108 Number:83 Turn:+1
+Target:108 Number:85 Turn:+1
+Target:108 Number:87 Turn:+1
+Target:108 Number:89 Turn:+1
+Target:108 Number:91 Turn:+1
+Target:108 Number:93 Turn:+1
+Target:108 Number:95 Turn:+1
+Target:108 Number:97 Turn:+1
+Target:108 Number:99 Turn:+1
+Target:108 Number:101 Turn:+1
+Target:108 Number:103 Turn:+1
+Target:108 Number:105 Turn:+1
+Target:108 Number:107 Turn:+1
+Поражение
+
+1068622525 Валерий
+Target:110 Number:3 Turn:+1
+Target:110 Number:5 Turn:+1
+Target:110 Number:7 Turn:+1
+Target:110 Number:9 Turn:+3
+Target:110 Number:15 Turn:+5
+Target:110 Number:25 Turn:+5
+Target:110 Number:35 Turn:+7
+Target:110 Number:49 Turn:+7
+Target:110 Number:57 Turn:+3
+Target:110 Number:65 Turn:+5
+Target:110 Number:105 Turn:+1
+Target:110 Number:107 Turn:+1
+Target:110 Number:109 Turn:+1
+Поражение
+
+1068622525 Валерий
+Target:123 Number:3 Turn:+1
+Target:123 Number:6 Turn:+3
+Target:123 Number:12 Turn:+3
+Target:123 Number:20 Turn:+5
+Target:123 Number:30 Turn:+15
+Target:123 Number:60 Turn:+15
+Target:123 Number:100 Turn:+1
+Target:123 Number:102 Turn:+17
+Target:123 Number:120 Turn:+2
+Победа
+
+1068622525 Валерий
+Target:116 Number:3 Turn:+1
+Target:116 Number:5 Turn:+1
+Target:116 Number:7 Turn:+1
+Target:116 Number:9 Turn:+3
+Target:116 Number:15 Turn:+5
+Target:116 Number:25 Turn:+5
+Target:116 Number:45 Turn:+15
+Target:116 Number:75 Turn:+1
+Target:116 Number:77 Turn:+1
+Target:116 Number:81 Turn:+1
+Target:116 Number:83 Turn:+1
+Target:116 Number:87 Turn:+1
+Target:116 Number:89 Turn:+1
+Target:116 Number:95 Turn:+1
+Target:116 Number:97 Turn:+1
+Target:116 Number:99 Turn:+1
+Target:116 Number:101 Turn:+1
+Target:116 Number:103 Turn:+1
+Target:116 Number:105 Turn:+1
+Target:116 Number:107 Turn:+1
+Target:116 Number:109 Turn:+1
+Target:116 Number:111 Turn:+1
+Target:116 Number:113 Turn:+1
+Target:116 Number:115 Turn:+1
+Поражение
+
+1068622525 Валерий
+Target:97 Number:3 Turn:+1
+Target:97 Number:6 Turn:+3
+Target:97 Number:12 Turn:+3
+Target:97 Number:20 Turn:+5
+Target:97 Number:30 Turn:+15
+Target:97 Number:60 Turn:+1
+Target:97 Number:62 Turn:+1
+Target:97 Number:84 Turn:+12
+Победа
+
+1068622525 Валерий
+Target:68 Number:3 Turn:+1
+Target:68 Number:5 Turn:+1
+Target:68 Number:9 Turn:+3
+Target:68 Number:15 Turn:+5
+Target:68 Number:25 Turn:+5
+Target:68 Number:35 Turn:+7
+Target:68 Number:45 Turn:+1
+Победа
+
+1068622525 Валерий
+Target:89 Number:3 Turn:+1
+Target:89 Number:6 Turn:+3
+Target:89 Number:10 Turn:+5
+Target:89 Number:20 Turn:+5
+Target:89 Number:30 Turn:+15
+Target:89 Number:60 Turn:+1
+Target:89 Number:62 Turn:+1
+Target:89 Number:84 Turn:+4
+Победа
+
+1068622525 Валерий
+Target:76 Number:3 Turn:+1
+Target:76 Number:5 Turn:+1
+Target:76 Number:9 Turn:+3
+Target:76 Number:15 Turn:+5
+Target:76 Number:25 Turn:+5
+Target:76 Number:45 Turn:+3
+Target:76 Number:51 Turn:+1
+Target:76 Number:65 Turn:+1
+Target:76 Number:69 Turn:+1
+Target:76 Number:75 Turn:+1
+Поражение
+
+383368111 Liteskarr
+Target:72 Number:3 Turn:+1
+Target:72 Number:5 Turn:+1
+Target:72 Number:7 Turn:+1
+Target:72 Number:9 Turn:+3
+Target:72 Number:13 Turn:+1
+Target:72 Number:15 Turn:+5
+Target:72 Number:21 Turn:+7
+Target:72 Number:29 Turn:+1
+Target:72 Number:31 Turn:+1
+Target:72 Number:33 Turn:+11
+Target:72 Number:45 Turn:+1
+Target:72 Number:47 Turn:+1
+Победа
+
+383368111 Liteskarr
+Target:126 Number:3 Turn:+1
+Target:126 Number:5 Turn:+1
+Target:126 Number:7 Turn:+1
+Target:126 Number:9 Turn:+3
+Target:126 Number:13 Turn:+1
+Target:126 Number:15 Turn:+5
+Target:126 Number:21 Turn:+7
+Target:126 Number:29 Turn:+1
+Target:126 Number:31 Turn:+1
+Target:126 Number:33 Turn:+11
+Target:126 Number:45 Turn:+15
+Target:126 Number:61 Turn:+1
+Target:126 Number:63 Turn:+9
+Target:126 Number:96 Turn:+1
+Target:126 Number:98 Turn:+1
+Target:126 Number:100 Turn:+25
+Победа
+
+383368111 Liteskarr
+Target:97 Number:3 Turn:+1
+Target:97 Number:6 Turn:+3
+Target:97 Number:12 Turn:+3
+Target:97 Number:18 Turn:+9
+Target:97 Number:30 Turn:+15
+Target:97 Number:48 Turn:+3
+Target:97 Number:54 Turn:+3
+Target:97 Number:60 Turn:+1
+Target:97 Number:62 Turn:+1
+Target:97 Number:66 Turn:+1
+Target:97 Number:68 Turn:+1
+Target:97 Number:92 Turn:+4
+Победа
+
+383368111 Liteskarr
+Target:115 Number:3 Turn:+1
+Target:115 Number:6 Turn:+3
+Target:115 Number:10 Turn:+5
+Target:115 Number:20 Turn:+5
+Target:115 Number:30 Turn:+15
+Target:115 Number:60 Turn:+5
+Target:115 Number:78 Turn:+1
+Target:115 Number:80 Turn:+1
+Target:115 Number:108 Turn:+6
+Победа
+
+383368111 Liteskarr
+Target:124 Number:3 Turn:+1
+Target:124 Number:6 Turn:+3
+Target:124 Number:12 Turn:+3
+Target:124 Number:18 Turn:+9
+Target:124 Number:30 Turn:+15
+Target:124 Number:46 Turn:+23
+Target:124 Number:92 Turn:+1
+Target:124 Number:94 Turn:+1
+Target:124 Number:114 Turn:+1
+Target:124 Number:120 Turn:+3
+Победа
+
+383368111 Liteskarr
+Target:73 Number:3 Turn:+1
+Target:73 Number:5 Turn:+1
+Target:73 Number:7 Turn:+1
+Target:73 Number:9 Turn:+3
+Target:73 Number:13 Turn:+1
+Target:73 Number:15 Turn:+5
+Target:73 Number:21 Turn:+7
+Target:73 Number:29 Turn:+1
+Target:73 Number:31 Turn:+1
+Target:73 Number:33 Turn:+11
+Target:73 Number:45 Turn:+1
+Target:73 Number:47 Turn:+1
+Target:73 Number:49 Turn:+1
+Target:73 Number:51 Turn:+1
+Target:73 Number:53 Turn:+1
+1078618715 Minker
+Target:83 Number:3 Turn:+1
+Target:83 Number:6 Turn:+3
+Target:83 Number:12 Turn:+3
+Target:83 Number:16 Turn:+1
+Target:83 Number:18 Turn:+9
+Target:83 Number:36 Turn:+9
+Target:83 Number:54 Turn:+1
+Target:83 Number:66 Turn:+1
+Target:83 Number:68 Turn:+1
+Target:83 Number:72 Turn:+1
+Target:83 Number:74 Turn:+1
+Target:83 Number:78 Turn:+1
+Target:83 Number:80 Turn:+2
+Победа
+
+540354738 Anastasia
+Target:80 Number:3 Turn:+1
+Target:80 Number:6 Turn:+3
+Target:80 Number:10 Turn:+5
+Target:80 Number:20 Turn:+5
+Target:80 Number:30 Turn:+15
+Target:80 Number:60 Turn:+1
+Target:80 Number:62 Turn:+1
+Target:80 Number:66 Turn:+11
+Target:80 Number:78 Turn:+1
+Победа
+
+1078618715 Minker
+Target:92 Number:3 Turn:+1
+Target:92 Number:5 Turn:+1
+Target:92 Number:9 Turn:+3
+Target:92 Number:15 Turn:+5
+Target:92 Number:25 Turn:+5
+Target:92 Number:45 Turn:+9
+Target:92 Number:81 Turn:+1
+Target:92 Number:83 Turn:+1
+Target:92 Number:91 Turn:+1
+Поражение
+
+1078618715 Валентин
+Target:106 Number:3 Turn:+1
+Target:106 Number:6 Turn:+3
+Target:106 Number:12 Turn:+3
+Target:106 Number:18 Turn:+9
+Target:106 Number:30 Turn:+15
+Target:106 Number:60 Turn:+5
+Target:106 Number:78 Turn:+1
+Target:106 Number:80 Turn:+1
+Победа
+
+1078618715 Валентин
+Target:78 Number:3 Turn:+1
+Target:78 Number:6 Turn:+3
+Target:78 Number:12 Turn:+3
+Target:78 Number:20 Turn:+5
+Target:78 Number:30 Turn:+15
+Target:78 Number:60 Turn:+5
+Target:78 Number:70 Turn:+7
+Победа
+
+459237749 Timur
+Target:79 Number:3 Turn:+1
+Target:79 Number:6 Turn:+3
+Target:79 Number:12 Turn:+3
+Target:79 Number:20 Turn:+5
+Target:79 Number:30 Turn:+15
+Target:79 Number:60 Turn:+1
+Target:79 Number:62 Turn:+1
+Target:79 Number:70 Turn:+1
+Target:79 Number:72 Turn:+6
+Победа
+
+459237749 Timur
+Target:73 Number:3 Turn:+1
+Target:73 Number:6 Turn:+3
+Target:73 Number:12 Turn:+3
+Target:73 Number:20 Turn:+5
+Target:73 Number:30 Turn:+15
+Target:73 Number:54 Turn:+18
+Победа
+
+459237749 Timur
+Target:68 Number:3 Turn:+1
+Target:68 Number:6 Turn:+3
+Target:68 Number:12 Turn:+3
+Target:68 Number:20 Turn:+5
+Target:68 Number:30 Turn:+5
+Target:68 Number:40 Turn:+1
+Target:68 Number:42 Turn:+1
+Target:68 Number:44 Turn:+1
+Target:68 Number:54 Turn:+1
+Target:68 Number:56 Turn:+1
+Target:68 Number:58 Turn:+1
+Target:68 Number:60 Turn:+5
+Target:68 Number:66 Turn:+1
+Победа
+
+459237749 Timur
+Target:120 Number:3 Turn:+1
+Target:120 Number:6 Turn:+3
+Target:120 Number:12 Turn:+3
+Target:120 Number:18 Turn:+9
+Target:120 Number:30 Turn:+15
+Target:120 Number:50 Turn:+25
+Target:120 Number:78 Turn:+39
+Target:120 Number:118 Turn:+1
+Победа
+
+459237749 Timur
+Target:108 Number:3 Turn:+1
+Target:108 Number:6 Turn:+3
+Target:108 Number:10 Turn:+5
+Target:108 Number:18 Turn:+9
+Target:108 Number:30 Turn:+15
+Target:108 Number:48 Turn:+3
+Target:108 Number:68 Turn:+1
+Target:108 Number:72 Turn:+1
+Target:108 Number:74 Turn:+1
+Target:108 Number:76 Turn:+1
+Target:108 Number:84 Turn:+21
+Target:108 Number:106 Turn:+1
+Победа
+
+459237749 Timur
+Target:99 Number:3 Turn:+1
+Target:99 Number:6 Turn:+3
+Target:99 Number:12 Turn:+3
+Target:99 Number:20 Turn:+5
+Target:99 Number:30 Turn:+15
+Target:99 Number:54 Turn:+9
+Target:99 Number:70 Turn:+1
+Target:99 Number:72 Turn:+1
+Target:99 Number:74 Turn:+1
+Target:99 Number:76 Turn:+19
+Победа
+
+459237749 Timur
+Target:114 Number:3 Turn:+1
+Target:114 Number:5 Turn:+1
+Target:114 Number:9 Turn:+3
+Target:114 Number:15 Turn:+5
+Target:114 Number:21 Turn:+7
+Target:114 Number:29 Turn:+1
+Target:114 Number:45 Turn:+15
+Target:114 Number:75 Turn:+1
+Target:114 Number:95 Turn:+1
+Target:114 Number:99 Turn:+1
+Target:114 Number:105 Turn:+1
+Target:114 Number:107 Turn:+1
+Target:114 Number:111 Turn:+1
+Target:114 Number:113 Turn:+1
+Поражение
+
+459237749 Timur
+Target:113 Number:3 Turn:+1
+760952058 Илья
+Target:100 Number:3 Turn:+1
+Target:100 Number:6 Turn:+3
+Target:100 Number:12 Turn:+3
+Target:100 Number:18 Turn:+9
+Target:100 Number:30 Turn:+15
+Target:100 Number:48 Turn:+3
+Target:100 Number:54 Turn:+9
+Target:100 Number:72 Turn:+1
+Target:100 Number:74 Turn:+1
+Победа
+
+760952058 Илья
+Target:81 Number:3 Turn:+1
+Target:81 Number:6 Turn:+3
